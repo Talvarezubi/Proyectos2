@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ccc9b8df47e70894caeaa63e6c0f6baf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Materials/mat_forest_waterB.mat
+  uploadId: 626503

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b18577f77968e2242b8c04db9f76a4d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Animation/cam_travelling2.controller
+  uploadId: 626503

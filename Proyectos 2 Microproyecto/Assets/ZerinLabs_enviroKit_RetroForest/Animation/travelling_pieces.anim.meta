@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 249b4e66f764e9a458c46ead05a296b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Animation/travelling_pieces.anim
+  uploadId: 626503

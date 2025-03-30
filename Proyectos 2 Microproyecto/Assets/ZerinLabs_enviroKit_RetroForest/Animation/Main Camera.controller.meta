@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42e1ce7b334bba14f8c6ae1724d1b950
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Animation/Main Camera.controller
+  uploadId: 626503

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19b28d0805469dc4cad078a07953524e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Materials/mat_skybox_varC.mat
+  uploadId: 626503

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7477e293ac343364eb08dac3060a97bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/PostFx/PostProcess_varA.asset
+  uploadId: 626503

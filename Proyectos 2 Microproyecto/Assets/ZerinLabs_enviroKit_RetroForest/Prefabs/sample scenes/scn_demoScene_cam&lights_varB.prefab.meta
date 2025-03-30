@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1725d82141e1db74fb5f1efab0a86dc3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Prefabs/sample scenes/scn_demoScene_cam&lights_varB.prefab
+  uploadId: 626503

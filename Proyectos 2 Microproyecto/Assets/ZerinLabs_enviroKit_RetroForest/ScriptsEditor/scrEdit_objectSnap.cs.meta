@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 24d3d9d7dfae19646bdebc2cbeb37a76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/ScriptsEditor/scrEdit_objectSnap.cs
+  uploadId: 626503

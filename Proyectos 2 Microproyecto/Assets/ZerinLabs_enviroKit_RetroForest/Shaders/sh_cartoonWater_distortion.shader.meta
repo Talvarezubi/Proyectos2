@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3b60c6929fad9f046947fc90fe33ba52
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Shaders/sh_cartoonWater_distortion.shader
+  uploadId: 626503

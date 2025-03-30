@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 21fe94696fdc9fb41ab657cf1703f5a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Prefabs/other/roomTemplate_8x6.prefab
+  uploadId: 626503

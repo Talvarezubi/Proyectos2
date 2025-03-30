@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 622795c2140cf1e43a548a5cb5d0fce2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Animation/anim_mapAllTravel.anim
+  uploadId: 626503

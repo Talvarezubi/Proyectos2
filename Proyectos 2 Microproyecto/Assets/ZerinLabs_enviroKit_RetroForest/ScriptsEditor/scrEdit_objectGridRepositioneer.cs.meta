@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 02732e75e5d42a94889f17bd7ef1976c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/ScriptsEditor/scrEdit_objectGridRepositioneer.cs
+  uploadId: 626503

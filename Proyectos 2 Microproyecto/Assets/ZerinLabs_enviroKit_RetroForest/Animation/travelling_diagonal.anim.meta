@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f659bd597a546ca44bb3abc14a939f10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Animation/travelling_diagonal.anim
+  uploadId: 626503

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d050c0ce93d92a84998c36b197ec7415
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Materials/mat_forest_decosA_URP.mat
+  uploadId: 626503

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e83ca7b9f29ba91499f69959a163468d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Scenes/Settings/scn_Forest_sampleScene_varASettings.lighting
+  uploadId: 626503

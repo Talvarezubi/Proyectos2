@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c941db69bbb08ac4095f733decdb7ac3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163286
+  packageName: 'Retro Dungeons : Modular Forest'
+  packageVersion: 2.0
+  assetPath: Assets/ZerinLabs_enviroKit_RetroForest/Renderer/UniversalRenderPipelineAsset_Renderer.asset
+  uploadId: 626503
